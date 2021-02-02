@@ -1,0 +1,30 @@
+body {
+    color : red;
+    background-image : url(no-cool.png)
+}
+form {
+    margin : 2rem;
+
+    margin-top: 4rem;
+}
+
+nav{
+    width :90%;
+    margin-left: 4rem;
+    margin-right: 4rem;
+   
+    
+ }
+ .navbar{
+     display : flex;
+    
+ }
+a{
+    
+     justify-items: space-between;
+ }
+ .navbar-text{
+    right : 0px ;
+    position : absolute;
+    margin-right: 5px;
+ }
